@@ -1,6 +1,6 @@
 {
     "name": "eftia/contact",
-    "description": "This will send email to admin and save contact query into database",
+    "description": "A laravel package for sending contact query as a mail and save to database table. It will publish as a contact page on your application",
     "type": "library",
     "license": "MIT",
     "autoload": {
