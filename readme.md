@@ -19,3 +19,7 @@ You can see on you project on **resource/views** folder there a folder created w
 Also on your application see the **/config** folder there is a file created name **contact.php** for configuration.
 
 You may able to see the view on browser , just hit the url after your project root url **/contact** 
+
+**Before you submit the form you need to migrate the table with this command 
+
+`php artisan migrate`
